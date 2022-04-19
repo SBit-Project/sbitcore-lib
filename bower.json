@@ -1,0 +1,30 @@
+{
+  "name": "sbitcore-lib",
+  "main": "./sbitcore-lib.min.js",
+  "version": "0.0.1",
+  "homepage": "https://sbit.dev",
+  "authors": [
+    "SBIT <dev@sbit.dev>"
+  ],
+  "description": "A pure, powerful core for your sbit project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
