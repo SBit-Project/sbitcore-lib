@@ -1,6 +1,6 @@
 {
   "name": "sbitcore-lib",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A pure and powerful JavaScript SBIT library.",
   "author": "SBIT <dev@sbit.dev>",  
   "main": "index.js",
