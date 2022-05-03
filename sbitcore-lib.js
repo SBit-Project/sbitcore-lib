@@ -4706,7 +4706,7 @@ var livenet = get('livenet');
 addNetwork({
   name: 'testnet',
   alias: 'regtest',
-  pubkeyhash: 0x7D,
+  pubkeyhash: 0x7d,
   privatekey: 0xef,
   scripthash: 0x6e,
   xpubkey: 0x084226ab,

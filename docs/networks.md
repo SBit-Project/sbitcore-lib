@@ -46,7 +46,7 @@ var testnet = new Network();
 _.extend(testnet, {
   name: 'testnet',
   alias: 'testnet',
-  pubkeyhash: 0x7D,
+  pubkeyhash: 0x7d,
   privatekey: 0xef,
   scripthash: 0x6e,
   xpubkey: 0x084226ab,
