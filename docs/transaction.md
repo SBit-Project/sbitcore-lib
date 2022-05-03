@@ -1,5 +1,5 @@
 # Transaction
-SBitcore provides a very simple API for creating transactions. We expect this API to be accessible for developers without knowing the working internals of SBIT in deep detail. What follows is a small introduction to transactions with some basic knowledge required to use this API.
+Sbitcore provides a very simple API for creating transactions. We expect this API to be accessible for developers without knowing the working internals of SBIT in deep detail. What follows is a small introduction to transactions with some basic knowledge required to use this API.
 
 A Transaction contains a set of inputs and a set of outputs. Each input contains a reference to another transaction's output, and a signature that allows the value referenced in that output to be used in this transaction.
 
@@ -76,7 +76,7 @@ transaction.applySignature(receivedSig);
 
 ## Adding inputs
 
-SBitcore contains two implementations of `Input`, one for spending _Pay to Public Key Hash_ outputs (called `PublicKeyHashInput`) and another to spend _Pay to Script Hash_ outputs for which the redeem script is a Multisig script (called `MultisigScriptHashInput`).
+Sbitcore contains two implementations of `Input`, one for spending _Pay to Public Key Hash_ outputs (called `PublicKeyHashInput`) and another to spend _Pay to Script Hash_ outputs for which the redeem script is a Multisig script (called `MultisigScriptHashInput`).
 
 All inputs have the following five properties:
 - `prevTxId`: a `Buffer` with the id of the transaction with the output this input is spending

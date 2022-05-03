@@ -1,4 +1,4 @@
-SBitcore Library
+Sbitcore Library
 =======
 
 A pure and powerful JavaScript SBIT library.
@@ -37,7 +37,7 @@ This will generate files named `sbitcore-lib.js` and `sbitcore-lib.min.js`.
 ## Development & Tests
 
 ```sh
-git clone https://github.com/SBIT-Project/sbitcore-lib
+git clone https://github.com/SBit-Project/sbitcore-lib
 cd sbitcore-lib
 npm install
 ```
