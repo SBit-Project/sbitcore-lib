@@ -1,6 +1,6 @@
 ## Principles
 
-SBIT is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the SBIT network allows for highly resilient SBIT infrastructure, and the developer community needs reliable, open-source tools to implement SBIT apps and services. SBitcore provides a reliable API for JavaScript apps that need to interface with SBIT.
+SBIT is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the SBIT network allows for highly resilient SBIT infrastructure, and the developer community needs reliable, open-source tools to implement SBIT apps and services. Sbitcore provides a reliable API for JavaScript apps that need to interface with SBIT.
 
 # Documentation Index
 

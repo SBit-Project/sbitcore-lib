@@ -1,4 +1,4 @@
-# SBitcore examples
+# Sbitcore examples
 
 ## Generate a random address
 ```javascript

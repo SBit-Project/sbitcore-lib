@@ -61750,7 +61750,7 @@ module.exports={
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SBIT-Project/sbitcore-lib.git"
+    "url": "https://github.com/SBit-Project/sbitcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
