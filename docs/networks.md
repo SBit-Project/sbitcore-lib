@@ -36,8 +36,8 @@ _.extend(livenet, {
   pubkeyhash: 0x3f,
   privatekey: 0x80,
   scripthash: 0x32,
-  xpubkey: 0x0878c22a,
-  xprivkey: 0x0878bda8,
+  xpubkey: 0x0488B21E,
+  xprivkey: 0x0488ADE4,
   networkMagic: 0xd2b1c5a4,
   port: 22001,
 });
@@ -49,7 +49,7 @@ _.extend(testnet, {
   pubkeyhash: 0x7d,
   privatekey: 0xef,
   scripthash: 0x6e,
-  xpubkey: 0x084226ab,
-  xprivkey: 0x08423661
+  xpubkey: 0x043587CF,
+  xprivkey: 0x04358394
 });
 ```
